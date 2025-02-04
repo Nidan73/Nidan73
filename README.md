@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nidan Alam , I m a 3rd Year student doing Bsc. in compute science at American internation University-Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Nidan Alam , I am a 3rd Year student doing Bsc. in compute science at American internation University-Bangladesh</h2>
 
 ###
 
