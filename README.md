@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! I'm Nidan Alam</h2>
+<h2 align="left">Hi 👋! My name is Nidan Alam</h2>
 
 <p align="left">
-🎓 Final-year Computer Science student at American International University-Bangladesh (AIUB)<br>
+🎓 Final-year BSc in Computer Science @ American International University-Bangladesh (AIUB)<br>
 🧠 Assistant General Secretary (R&D) @ AIUB Computer Club<br>
-⚡ Full-stack MERN developer building real-world applications<br>
-🚀 Exploring AI/ML & Computer Vision <br>
+⚡ Full-stack MERN developer with real-world project experience<br>
+🚀 Currently exploring AI/ML & Computer Vision (multi-person action understanding)<br>
+💡 Passionate about building scalable systems, solving real problems & leading tech initiatives<br>
 </p>
 
 ###
@@ -21,6 +22,8 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 
+<p align="left"><b>💻 Core Development (What I actively build with)</b></p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
@@ -34,35 +37,67 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
+</div>
+
+<br>
+
+<p align="left"><b>🧠 AI / Data Science / Exploration</b></p>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
+</div>
+
+<br>
+
+<p align="left"><b>⚙️ Programming Foundations & Academic Experience</b></p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+</div>
+
+<br>
+
+<p align="left"><b>🗄 Database & Tools</b></p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
 
 ###
 
-<h3 align="left">🚀 What I'm Working On</h3>
+<h3 align="left">🚀 What I'm Currently Working On</h3>
 
 <p align="left">
-• Building full-stack apps with React, Firebase & MongoDB<br>
-• Developing an AI-based thesis on efficient multi-person action understanding<br>
-• Exploring deep learning pipelines with lightweight architectures<br>
-• Organizing tech events & AI workshops for 60+ students at AIUB<br>
+🔹 Developing a thesis on <b>efficient multi-person action understanding</b> using lightweight deep learning architectures<br>
+🔹 Building scalable full-stack applications using MERN + Firebase<br>
+🔹 Exploring system design, backend data flow & real-world edge case handling<br>
+🔹 Improving ML pipelines with focus on efficiency and practical deployment<br>
 </p>
 
 ###
 
-<h3 align="left">🌐 Featured Work</h3>
+<h3 align="left">🏆 Leadership & Activities</h3>
 
 <p align="left">
-🔹 ACC Premier League System – Full-stack tournament platform (React + Firebase)<br>
-🔹 HERO.IO – Interactive web app with analytics & visualization<br>
-🔹 Skill Swap – Community-based learning platform<br>
+🎯 Organized and hosted a 2-hour AI workshop for ~60 AIUB Computer Club members (Discord-based)<br>
+🎯 Leading R&D initiatives as Assistant General Secretary at AIUB Computer Club<br>
+🎯 Built and managed full-stack system for ACC Premier League (player auction + tournament system)<br>
 </p>
 
 ###
+
+<h3 align="left">🌐 Connect With Me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nidan-alam-7428a3231" target="_blank">
