@@ -90,9 +90,11 @@
 <h3 align="left">🏆 Leadership & Activities</h3>
 
 <p align="left">
-🎯 Organized and hosted a 2-hour AI workshop for ~60 AIUB Computer Club members (Discord-based)<br>
+🎯 Recognized for organizational and technical responsibility at AIUB Cyber Gaming Fest 2025 (CGF), serving as
+organizer and game lead (eFootball), managing tournament operations and real-time issue resolution<br>
 🎯 Leading R&D initiatives as Assistant General Secretary at AIUB Computer Club<br>
-🎯 Built and managed full-stack system for ACC Premier League (player auction + tournament system)<br>
+🎯 Participated in the AIUB Intra University Programming Contest, applying problem-solving and algorithmic thinking
+in a competitive programming environment.<br>
 </p>
 
 ###
