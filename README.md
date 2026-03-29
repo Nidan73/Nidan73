@@ -10,9 +10,9 @@
 
 ###
 
-<div align="center">
+[<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidan73&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
-</div>
+</div>](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidan73&layout=compact&theme=dracula)
 
 ###
 
