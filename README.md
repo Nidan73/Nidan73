@@ -8,11 +8,6 @@
 💡 Passionate about building scalable systems, solving real problems & leading tech initiatives<br>
 </p>
 
-###
-
-[<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidan73&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
-</div>](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidan73&layout=compact&theme=dracula)
 
 ###
 
