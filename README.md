@@ -6,7 +6,7 @@
 🧠 Former Assistant General Secretary (R&D) @ AIUB Computer Club<br>
 ⚡ Frontend / full-stack developer focused on React, Next.js, TypeScript, MERN, and clean UI systems<br>
 🤖 Researching AI/ML, computer vision, and federated learning, with 3 conference papers presented in 2026<br>
-🌐 Portfolio: <a href="https://nidanalam.netlify.app/" target="_blank">nidanalam.netlify.app</a>
+🌐 Portfolio: <a href="https://nidanalam.dev/" target="_blank">nidanalam.dev</a>
 </p>
 
 ###
@@ -44,11 +44,13 @@ I prefer building things that are usable, readable, and deployable instead of on
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="30" alt="Framer Motion" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js" />
 </div>
 
 <br>
@@ -60,9 +62,15 @@ I prefer building things that are usable, readable, and deployable instead of on
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
 </div>
 
 <br>
@@ -84,11 +92,23 @@ I prefer building things that are usable, readable, and deployable instead of on
 <p align="left"><b>🗄 Database, Tools & Deployment</b></p>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="Supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel" />
   <img width="12" />
@@ -130,13 +150,14 @@ I prefer building things that are usable, readable, and deployable instead of on
 <h3 align="left">📌 Selected Projects</h3>
 
 <p align="left">
-🔸 <b>Bhai Thik Kor</b>: AI prompt dispatcher for converting vague prompts into structured, model-ready prompts<br>
-🔸 <b>Floka Digital Agency</b>: animated digital agency landing page built with React, Vite, Tailwind, Three.js, and Framer Motion<br>
-🔸 <b>Smart Deals</b>: MERN-based deal/coupon platform with separate client and server repositories<br>
-🔸 <b>Skill Swap</b>: Firebase-backed web application with authentication and protected routes<br>
-🔸 <b>Privacy Federated ViT RS</b>: research code for partially encrypted federated Vision Transformers on remote sensing data (ICCA 2026)<br>
-🔸 <b>Bangla Sentiment Analysis</b>: machine learning project for Bangla text sentiment/emotion classification<br>
-🔸 <b>ACC Premier League</b>: sports/event platform for AIUB Computer Club activities
+🔸 <b>Bhai Thik Kor</b>: AI prompt dispatcher that turns vague ideas into structured, model-ready prompts, with real-time streaming across Groq, Gemini, and OpenRouter (Next.js, Vercel AI SDK, Upstash Redis). <a href="https://bhaithikkor.vercel.app/">Live</a> · <a href="https://github.com/Nidan73/prompt-generator">Code</a><br>
+🔸 <b>Bhai Thik Kor Extension</b>: Chrome extension that improves prompts in place on any page, with no API keys in the browser and no keystroke logging. <a href="https://github.com/Nidan73/bhai-thik-kor-extension">Code</a><br>
+🔸 <b>Ireland Fintax</b>: marketing site, client portal, and admin console for an Irish finance and tax practice (Next.js 16, React 19, Auth.js v5, MongoDB). <a href="https://github.com/Nidan73/aibn-irish-fintax">Code</a><br>
+🔸 <b>ScaleRAG</b>: scale-aware retrieval augmentation for frozen time-series foundation models, with a study of when retrieval actually helps (Python). <a href="https://github.com/Nidan73/ScaleRAG">Code</a><br>
+🔸 <b>Floka Digital Agency</b>: animated agency landing page (React, Vite, Tailwind, Three.js, Framer Motion). <a href="https://floka-digitat-agent.netlify.app/">Live</a> · <a href="https://github.com/Nidan73/floka-digital-agency">Code</a><br>
+🔸 <b>Skill Swap</b>: peer skill-exchange platform with Firebase auth, protected routes, and real-time Firestore CRUD. <a href="https://skill-swap-963e6.web.app/">Live</a> · <a href="https://github.com/Nidan73/skill-swap">Code</a><br>
+🔸 <b>AIUB World Cup 2026 Scraper</b>: scraper and analysis tooling for a 48-team university football tournament (Python, pytest). <a href="https://github.com/Nidan73/webscrape-aiub-world-cup-2026">Code</a><br>
+🔸 <b>Bangla Sentiment Analysis</b>: multi-label emotion classification of Bangla social-media comments with a soft-vote ensemble of classical models (scikit-learn). <a href="https://github.com/Nidan73/bangla-sentiment-analysis-machine-learning">Code</a>
 </p>
 
 ###
@@ -155,7 +176,7 @@ I prefer building things that are usable, readable, and deployable instead of on
 <h3 align="left">🌐 Connect With Me</h3>
 
 <div align="left">
-  <a href="https://nidanalam.netlify.app/" target="_blank">
+  <a href="https://nidanalam.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&color=00C7B7&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nidan-alam-7428a3231" target="_blank">
