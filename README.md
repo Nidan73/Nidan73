@@ -120,7 +120,7 @@ I prefer building things that are usable, readable, and deployable instead of on
 <h3 align="left">💼 Experience</h3>
 
 <p align="left">
-🔹 <b>Frontend Developer</b>, Dublin 4IR (June 2026 to present): responsive interfaces, React/Next.js, UI components, and frontend documentation<br>
+🔹 <b>Frontend Developer</b>, Dublin 4IR (June 2026 to present): responsive interfaces, React/Next.js, UI components, and frontend documentation. Team projects include <a href="https://github.com/Nidan73/aibn-irish-fintax">Ireland Fintax</a>, a marketing site, client portal, and admin console for an Irish finance and tax practice (Next.js 16, Auth.js v5, MongoDB)<br>
 🔹 <b>IT Intern</b>, MJ Auto Japan Ltd., Dhaka (Feb 2026 to May 2026)
 </p>
 
@@ -152,7 +152,6 @@ I prefer building things that are usable, readable, and deployable instead of on
 <p align="left">
 🔸 <b>Bhai Thik Kor</b>: AI prompt dispatcher that turns vague ideas into structured, model-ready prompts, with real-time streaming across Groq, Gemini, and OpenRouter (Next.js, Vercel AI SDK, Upstash Redis). <a href="https://bhaithikkor.vercel.app/">Live</a> · <a href="https://github.com/Nidan73/prompt-generator">Code</a><br>
 🔸 <b>Bhai Thik Kor Extension</b>: Chrome extension that improves prompts in place on any page, with no API keys in the browser and no keystroke logging. <a href="https://github.com/Nidan73/bhai-thik-kor-extension">Code</a><br>
-🔸 <b>Ireland Fintax</b>: marketing site, client portal, and admin console for an Irish finance and tax practice (Next.js 16, React 19, Auth.js v5, MongoDB). <a href="https://github.com/Nidan73/aibn-irish-fintax">Code</a><br>
 🔸 <b>ScaleRAG</b>: scale-aware retrieval augmentation for frozen time-series foundation models, with a study of when retrieval actually helps (Python). <a href="https://github.com/Nidan73/ScaleRAG">Code</a><br>
 🔸 <b>Floka Digital Agency</b>: animated agency landing page (React, Vite, Tailwind, Three.js, Framer Motion). <a href="https://floka-digitat-agent.netlify.app/">Live</a> · <a href="https://github.com/Nidan73/floka-digital-agency">Code</a><br>
 🔸 <b>Skill Swap</b>: peer skill-exchange platform with Firebase auth, protected routes, and real-time Firestore CRUD. <a href="https://skill-swap-963e6.web.app/">Live</a> · <a href="https://github.com/Nidan73/skill-swap">Code</a><br>
